@@ -222,6 +222,9 @@ Bid A > Ask B : False
 Bid B > Ask A : True
 ```
 
+![github](https://user-images.githubusercontent.com/47087905/51808013-ab879280-228e-11e9-9417-d2ee11503d05.jpg)
+
+
 <br/>Data analysis
 
 • Retrieve historical data on exchange A
