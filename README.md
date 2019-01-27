@@ -221,6 +221,7 @@ B  0.009064  0.009065
 Bid A > Ask B : False
 Bid B > Ask A : True
 ```
+
 <br/>Data analysis
 
 • Retrieve historical data on exchange A
