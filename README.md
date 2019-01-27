@@ -3,8 +3,7 @@
 
 Binome : BOTTE Alexandre & CASANOVA Leo
 
-
-Arbitrage
+<br/>Arbitrage
 
 • Retrieve the asset list of an exchange A
 
@@ -17,6 +16,8 @@ Arbitrage
 • Scale the process to execute as close to real time as possible
 
 • Receive an email notification when a match is found
+
+<br/>CODE:
 
 ```
 import numpy as np
@@ -149,7 +150,7 @@ s.enter(60, 1, TradingBot, (s,))
 s.run()
 ```
 
-Example output:
+<br/>Example output:
 
 ```
 Analyzing the market...
