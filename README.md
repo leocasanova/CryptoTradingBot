@@ -1,5 +1,9 @@
 # CryptoTradingBot
 
+
+Binome : BOTTE Alexandre & CASANOVA Leo
+
+
 Arbitrage
 
 • Retrieve the asset list of an exchange A
